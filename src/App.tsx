@@ -1,6 +1,8 @@
 import { BiShoppingBag } from "react-icons/bi";
 import Selling from "./components/Selling/Selling";
 import Products from "./components/Products/Products";
+import ClothingDesign from "./components/ClothingDesign/ClothingDesign";
+import Feedback from "./components/Feedback/Feedback";
 
 function App() {
   return (
@@ -76,6 +78,14 @@ function App() {
 
       <section className="pt-48 flex justify-center">
         <Products />
+      </section>
+
+      <section className="pt-52 flex justify-center">
+        <ClothingDesign />
+      </section>
+
+      <section className="pt-64 flex justify-center">
+        <Feedback />
       </section>
     </div>
   )

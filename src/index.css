@@ -10,5 +10,6 @@
     --font-poppins: 'Poppins', sans-serif;
     --font-rufina: 'Rufina', sans-serif;   
     --font-roboto: 'Roboto Slab', sans-serif;
-    --color-w:#6BC785 ;                                         
+    --color-w:#6BC785 ;             
+    --shadow-3xl: 0 10px 15px 3px rgba(0, 0, 0, 0.3);                             
 }
