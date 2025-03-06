@@ -3,6 +3,7 @@ import Selling from "./components/Selling/Selling";
 import Products from "./components/Products/Products";
 import ClothingDesign from "./components/ClothingDesign/ClothingDesign";
 import Feedback from "./components/Feedback/Feedback";
+import Informations from "./components/Informations/Informations";
 
 function App() {
   return (
@@ -86,6 +87,10 @@ function App() {
 
       <section className="pt-64 flex justify-center">
         <Feedback />
+      </section>
+
+      <section className="pt-80">
+        <Informations />
       </section>
     </div>
   )
