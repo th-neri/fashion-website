@@ -13,13 +13,13 @@
 <br>
 
 <p align="center">
-  <img alt="" src=".github/preview-1.png">
+  <img alt="" src=".github/">
 </p>
 <p align="center">
-  <img alt="" src=".github/preview-2.png">
+  <img alt="" src=".github/">
 </p>
 <p align="center">
-  <img alt="" src=".github/preview-3.png">
+  <img alt="" src=".github/">
 </p>
 
 ## 🚀 Technologies
