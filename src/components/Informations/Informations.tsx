@@ -74,7 +74,7 @@ function Informations() {
                     </div>
                     <a href="#">
                     <div>
-                        <input type="submit" value="Submit" className="mt-10 bg-green-950 text-white font-poppins font-normal text-xl h-14 w-56 rounded-lg"/>
+                        <input type="submit" value="SUBMIT" className="mt-10 bg-green-950 text-white font-poppins font-normal text-xl h-14 w-56 rounded-lg"/>
                     </div>
                     </a>
                 </div>
