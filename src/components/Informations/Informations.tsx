@@ -68,6 +68,16 @@ function Informations() {
 
             <div className="flex-col pt-24 pl-36">
                 <h3 className="font-robot font-medium text-2xl text-white pb-9">STAY UP TO DATE</h3>
+                <div className="pt-10">
+                    <div className="">
+                        <input type="email" placeholder="Enter your email" className="text-white font-poppins font-normal text-xl pl-5 h-14 w-full rounded-lg outline-2 outline-offset-2 outline-solid focus:border-white"/>
+                    </div>
+                    <a href="#">
+                    <div>
+                        <input type="submit" value="Submit" className="mt-10 bg-green-950 text-white font-poppins font-normal text-xl h-14 w-56 rounded-lg"/>
+                    </div>
+                    </a>
+                </div>
             </div>
         </div>
     )
